@@ -1,0 +1,13 @@
+{
+  "name": "copyright",
+  "version": "1.0.0",
+  "description": "Копирайт",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/copyright",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {}
+}
